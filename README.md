@@ -21,5 +21,5 @@ Did you use any external resources (you do not have to cite in class material)? 
 
 Python Software Foundation. (2023). Memory Management — Python 3.13.7 documentation. Retrieved from https://docs.python.org/3/c-api/memory.html
 
- GeeksforGeeks. 2025. Difference between malloc() and calloc() in C. GeeksforGeeks. Retrieved September 23, 2025 from https://www.geeksforgeeks.org/difference-between-malloc-and-calloc-in-c/
+ GeeksforGeeks. 2025. Difference between malloc() and calloc() in C. GeeksforGeeks. from https://www.geeksforgeeks.org/difference-between-malloc-and-calloc-in-c/
 

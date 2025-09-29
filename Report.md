@@ -156,7 +156,7 @@ Add any references you use here. Use ACM style formatting, adding to the numbers
 
 2. Python Software Foundation. (2023). Memory Management — Python 3.13.7 documentation. Retrieved from https://docs.python.org/3/c-api/memory.html
 
-3. GeeksforGeeks. 2025. Difference between malloc() and calloc() in C. GeeksforGeeks. Retrieved September 23, 2025 from https://www.geeksforgeeks.org/difference-between-malloc-and-calloc-in-c/
+3. GeeksforGeeks. 2025. Difference between malloc() and calloc() in C. GeeksforGeeks. from https://www.geeksforgeeks.org/difference-between-malloc-and-calloc-in-c/
 
 
 ## Resource/Help: Linking to images?
